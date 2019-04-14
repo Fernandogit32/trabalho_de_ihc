@@ -10,7 +10,7 @@ a{
     margin-top: 10px;
 }
 .card{
-    margin-top: 100px;
+    margin-top: 80px;
     width: 500px;
     border-radius: 20px;
     border: solid 1px black;
@@ -39,3 +39,11 @@ body{
    margin-top: 5px;
    margin-left: 10px; 
 }
+.inf{
+margin-top: 10px;
+}
+.titulo{
+    margin-top: 20px;
+    text-align: center;
+    color: dodgerblue;
+  }
